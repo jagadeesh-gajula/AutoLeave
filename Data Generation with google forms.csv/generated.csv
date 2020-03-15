@@ -1,0 +1,1001 @@
+number of days,applied leaves per month,place,department,designation,leave_type,reason
+28,1,office,marketing,manager,casual,medical
+20,3,out of town,R&D,manager,extension leave,personal
+20,3,office,operations,ad-hoc,official,accompany child
+11,1,out of town,HR,supervisor,earned,emergency for family
+1,2,office,IT,manager,casual,personal
+10,2,office,finance,supervisor,medical,accompany child
+13,3,office,operations,employee,casual,duty leave
+25,2,out of town,IT,foreman,medical,personal
+4,4,home,marketing,manager,extension leave,personal
+28,5,office,IT,manager,casual,accompany child
+17,5,out of town,finance,manager,earned,duty leave
+7,5,office,cleaners,foreman,official,marriage
+19,1,home,marketing,employee,casual,medical
+28,0,home,HR,foreman,medical,accompany child
+10,4,office,operations,ad-hoc,casual,medical
+27,5,out of town,operations,foreman,casual,medical
+16,2,out of town,cleaners,supervisor,casual,accompany child
+1,2,office,marketing,foreman,EOL,duty leave
+26,0,office,IT,foreman,medical,medical
+27,5,office,HR,ad-hoc,earned,personal
+12,2,out of town,marketing,supervisor,EOL,death
+8,0,office,operations,ad-hoc,official,accompany child
+22,3,office,IT,ad-hoc,medical,personal
+17,1,home,cleaners,ad-hoc,official,marriage
+22,3,out of town,finance,manager,official,death
+21,4,office,R&D,employee,medical,personal
+24,3,office,marketing,manager,official,personal
+13,0,out of town,finance,supervisor,earned,accompany child
+17,1,out of town,operations,supervisor,earned,emergency for family
+12,0,office,HR,employee,official,medical
+4,5,out of town,marketing,employee,medical,accompany child
+27,5,home,finance,foreman,casual,death
+8,2,out of town,IT,manager,medical,emergency for family
+10,2,office,R&D,ad-hoc,casual,personal
+14,4,home,R&D,foreman,medical,medical
+6,1,home,finance,ad-hoc,medical,personal
+9,5,home,HR,manager,EOL,emergency for family
+23,0,office,finance,foreman,medical,marriage
+28,2,office,R&D,employee,official,duty leave
+20,5,office,marketing,ad-hoc,casual,medical
+4,4,out of town,IT,ad-hoc,earned,emergency for family
+19,2,home,HR,ad-hoc,casual,duty leave
+16,0,home,IT,ad-hoc,extension leave,emergency for family
+23,1,out of town,operations,ad-hoc,extension leave,death
+8,5,home,marketing,manager,medical,emergency for family
+23,3,out of town,cleaners,ad-hoc,EOL,accompany child
+29,3,home,HR,foreman,official,duty leave
+2,4,out of town,cleaners,ad-hoc,casual,medical
+24,0,home,R&D,foreman,extension leave,duty leave
+24,3,office,HR,ad-hoc,medical,duty leave
+10,3,out of town,cleaners,foreman,earned,death
+10,4,office,R&D,manager,official,personal
+8,0,home,R&D,ad-hoc,EOL,medical
+9,3,office,marketing,ad-hoc,official,emergency for family
+29,2,office,R&D,supervisor,earned,accompany child
+29,1,out of town,cleaners,foreman,extension leave,duty leave
+11,0,home,HR,supervisor,earned,personal
+12,2,office,cleaners,ad-hoc,EOL,emergency for family
+15,0,out of town,R&D,employee,medical,death
+2,3,out of town,marketing,foreman,official,marriage
+18,5,out of town,finance,manager,extension leave,medical
+7,2,office,cleaners,ad-hoc,official,death
+19,4,office,marketing,employee,official,duty leave
+7,0,office,finance,employee,medical,emergency for family
+23,5,home,HR,manager,EOL,death
+29,4,office,operations,employee,extension leave,emergency for family
+9,2,out of town,R&D,employee,medical,death
+10,5,home,IT,manager,medical,death
+29,0,out of town,marketing,supervisor,earned,death
+10,3,home,finance,supervisor,EOL,accompany child
+6,3,office,HR,manager,EOL,accompany child
+15,4,out of town,cleaners,ad-hoc,casual,death
+12,3,office,finance,manager,earned,death
+24,2,out of town,R&D,ad-hoc,official,death
+18,2,out of town,HR,foreman,casual,marriage
+1,0,home,cleaners,supervisor,earned,death
+2,1,office,cleaners,foreman,extension leave,marriage
+20,0,out of town,HR,supervisor,extension leave,duty leave
+11,4,home,marketing,manager,medical,medical
+21,1,office,marketing,employee,earned,medical
+11,0,home,marketing,ad-hoc,casual,duty leave
+14,5,office,HR,employee,earned,marriage
+30,2,office,IT,ad-hoc,casual,medical
+6,5,home,marketing,supervisor,medical,duty leave
+30,5,office,HR,supervisor,casual,death
+1,0,home,R&D,employee,extension leave,emergency for family
+8,0,home,cleaners,foreman,medical,death
+29,2,home,IT,ad-hoc,earned,medical
+16,0,home,IT,ad-hoc,earned,accompany child
+26,3,office,operations,supervisor,medical,medical
+14,1,home,IT,supervisor,extension leave,marriage
+2,2,out of town,HR,ad-hoc,medical,personal
+6,2,home,marketing,manager,extension leave,marriage
+7,3,out of town,IT,foreman,earned,emergency for family
+19,5,home,marketing,supervisor,earned,emergency for family
+6,2,out of town,finance,ad-hoc,medical,duty leave
+7,3,out of town,finance,employee,casual,medical
+2,0,office,finance,supervisor,EOL,personal
+17,0,home,operations,employee,EOL,duty leave
+19,5,out of town,IT,ad-hoc,earned,marriage
+17,5,home,cleaners,supervisor,official,medical
+6,4,office,finance,manager,earned,emergency for family
+6,2,out of town,R&D,foreman,EOL,emergency for family
+5,3,out of town,HR,supervisor,medical,personal
+14,3,office,IT,ad-hoc,earned,emergency for family
+5,4,home,R&D,foreman,EOL,medical
+23,2,office,marketing,employee,EOL,death
+3,3,out of town,IT,manager,casual,duty leave
+8,2,out of town,operations,manager,EOL,duty leave
+29,4,office,IT,ad-hoc,earned,emergency for family
+25,1,out of town,HR,foreman,extension leave,personal
+27,5,office,finance,foreman,EOL,emergency for family
+23,2,out of town,operations,ad-hoc,earned,duty leave
+30,4,out of town,marketing,foreman,casual,personal
+19,4,out of town,cleaners,employee,official,personal
+4,3,home,marketing,employee,casual,death
+23,2,out of town,operations,ad-hoc,medical,emergency for family
+15,2,out of town,finance,manager,earned,emergency for family
+2,3,office,IT,manager,medical,duty leave
+13,1,office,operations,manager,medical,duty leave
+16,4,out of town,marketing,employee,official,marriage
+1,2,office,cleaners,foreman,earned,accompany child
+10,3,out of town,marketing,manager,earned,accompany child
+12,1,out of town,cleaners,manager,medical,accompany child
+27,0,home,finance,employee,earned,marriage
+16,1,home,cleaners,manager,medical,personal
+20,2,home,IT,ad-hoc,medical,medical
+21,5,office,operations,manager,extension leave,death
+1,2,home,marketing,foreman,earned,medical
+17,1,office,IT,foreman,casual,emergency for family
+14,5,home,HR,supervisor,earned,marriage
+5,4,out of town,R&D,manager,EOL,duty leave
+15,1,out of town,cleaners,foreman,medical,emergency for family
+16,0,home,marketing,manager,official,accompany child
+5,3,out of town,R&D,manager,casual,medical
+4,5,out of town,HR,foreman,official,death
+14,5,office,IT,supervisor,earned,emergency for family
+8,1,office,HR,foreman,casual,duty leave
+21,4,home,R&D,manager,earned,duty leave
+20,4,office,finance,employee,casual,medical
+1,5,out of town,finance,foreman,official,marriage
+24,4,home,IT,foreman,official,accompany child
+24,5,home,HR,supervisor,EOL,accompany child
+9,4,out of town,marketing,supervisor,earned,accompany child
+25,1,office,finance,employee,casual,emergency for family
+2,1,office,operations,supervisor,medical,medical
+10,4,home,HR,ad-hoc,EOL,medical
+22,5,home,IT,employee,official,accompany child
+10,0,home,marketing,ad-hoc,extension leave,medical
+11,1,office,R&D,supervisor,earned,death
+10,4,out of town,operations,foreman,EOL,emergency for family
+30,4,out of town,marketing,employee,EOL,personal
+27,3,out of town,cleaners,ad-hoc,extension leave,personal
+4,1,home,marketing,manager,medical,personal
+7,5,out of town,R&D,employee,casual,death
+7,4,office,marketing,supervisor,casual,medical
+28,1,office,R&D,supervisor,medical,emergency for family
+23,0,home,R&D,manager,casual,duty leave
+23,0,office,marketing,employee,EOL,personal
+8,5,office,marketing,foreman,extension leave,death
+18,0,out of town,R&D,foreman,EOL,medical
+9,2,home,operations,supervisor,earned,death
+2,1,office,R&D,ad-hoc,earned,personal
+15,4,out of town,finance,supervisor,medical,medical
+2,0,office,finance,employee,casual,personal
+17,4,out of town,marketing,foreman,extension leave,duty leave
+23,1,home,R&D,supervisor,casual,marriage
+15,0,office,operations,ad-hoc,casual,marriage
+12,5,home,operations,manager,extension leave,marriage
+6,2,office,R&D,foreman,extension leave,medical
+29,0,home,marketing,supervisor,earned,personal
+23,0,home,HR,foreman,earned,duty leave
+1,5,out of town,operations,supervisor,medical,personal
+11,1,office,R&D,supervisor,earned,marriage
+28,0,office,cleaners,ad-hoc,medical,death
+24,0,out of town,operations,manager,casual,personal
+1,5,office,operations,foreman,extension leave,personal
+27,4,out of town,marketing,foreman,extension leave,death
+5,0,home,R&D,ad-hoc,medical,duty leave
+2,3,out of town,operations,ad-hoc,official,marriage
+27,5,office,cleaners,supervisor,medical,personal
+1,1,out of town,operations,foreman,earned,emergency for family
+21,1,office,IT,manager,casual,personal
+20,3,out of town,operations,ad-hoc,official,death
+11,5,office,IT,ad-hoc,medical,marriage
+16,2,out of town,HR,manager,extension leave,personal
+11,3,home,R&D,manager,EOL,personal
+4,5,out of town,cleaners,foreman,extension leave,accompany child
+23,3,office,cleaners,employee,medical,emergency for family
+25,4,out of town,marketing,supervisor,extension leave,personal
+26,4,home,HR,manager,extension leave,duty leave
+25,3,office,operations,supervisor,extension leave,personal
+16,0,out of town,HR,supervisor,earned,medical
+17,3,home,marketing,ad-hoc,official,death
+28,5,home,cleaners,supervisor,official,marriage
+15,1,out of town,finance,foreman,extension leave,duty leave
+30,1,out of town,R&D,employee,casual,duty leave
+17,4,out of town,operations,manager,medical,duty leave
+5,5,home,cleaners,supervisor,earned,medical
+11,5,office,cleaners,manager,official,marriage
+8,5,out of town,finance,manager,extension leave,marriage
+12,0,office,IT,foreman,earned,accompany child
+10,1,out of town,R&D,ad-hoc,extension leave,marriage
+12,0,office,cleaners,employee,medical,accompany child
+11,0,out of town,marketing,manager,earned,accompany child
+29,2,office,R&D,manager,medical,personal
+19,2,home,IT,supervisor,official,accompany child
+18,2,out of town,R&D,foreman,extension leave,death
+22,0,home,R&D,foreman,extension leave,death
+28,4,office,cleaners,employee,extension leave,accompany child
+8,1,office,marketing,ad-hoc,casual,emergency for family
+20,1,home,cleaners,foreman,extension leave,emergency for family
+9,2,home,finance,employee,official,death
+24,4,out of town,operations,manager,casual,medical
+14,0,out of town,marketing,ad-hoc,medical,marriage
+15,3,home,R&D,supervisor,EOL,death
+17,0,out of town,marketing,supervisor,casual,accompany child
+18,3,office,operations,foreman,official,accompany child
+6,1,out of town,R&D,ad-hoc,medical,medical
+30,1,home,R&D,ad-hoc,extension leave,marriage
+13,2,home,cleaners,employee,extension leave,marriage
+18,3,office,HR,employee,extension leave,death
+1,2,home,finance,ad-hoc,EOL,medical
+29,0,office,IT,employee,extension leave,duty leave
+10,3,home,HR,employee,official,marriage
+19,4,office,IT,supervisor,medical,marriage
+2,1,office,operations,manager,earned,emergency for family
+22,4,home,HR,manager,earned,emergency for family
+2,4,out of town,HR,ad-hoc,extension leave,duty leave
+6,4,office,finance,employee,medical,personal
+21,2,office,IT,supervisor,EOL,personal
+25,3,office,R&D,manager,EOL,death
+8,3,out of town,marketing,manager,earned,emergency for family
+19,2,home,operations,employee,medical,emergency for family
+8,4,office,cleaners,supervisor,EOL,emergency for family
+12,0,out of town,operations,manager,official,emergency for family
+21,5,home,finance,supervisor,official,duty leave
+3,0,home,cleaners,employee,earned,medical
+16,4,out of town,IT,employee,earned,marriage
+5,3,out of town,cleaners,foreman,extension leave,medical
+1,4,out of town,cleaners,manager,EOL,marriage
+15,1,office,finance,supervisor,extension leave,marriage
+17,1,home,IT,manager,EOL,medical
+2,2,office,finance,manager,casual,accompany child
+7,3,office,R&D,supervisor,EOL,death
+6,3,office,finance,employee,EOL,duty leave
+23,5,out of town,finance,ad-hoc,extension leave,accompany child
+26,0,out of town,cleaners,ad-hoc,official,medical
+10,0,office,marketing,ad-hoc,official,medical
+8,5,office,HR,manager,official,death
+9,4,office,R&D,employee,casual,marriage
+11,0,home,cleaners,supervisor,official,marriage
+5,5,out of town,HR,foreman,casual,duty leave
+6,5,out of town,cleaners,manager,official,death
+15,4,out of town,operations,employee,earned,accompany child
+2,2,home,R&D,supervisor,official,marriage
+1,1,home,operations,employee,extension leave,emergency for family
+3,1,office,HR,supervisor,extension leave,marriage
+18,1,home,finance,foreman,casual,accompany child
+8,5,home,R&D,ad-hoc,earned,accompany child
+17,1,out of town,R&D,supervisor,earned,duty leave
+29,4,out of town,R&D,employee,extension leave,emergency for family
+26,3,office,IT,ad-hoc,medical,marriage
+9,3,out of town,HR,foreman,EOL,personal
+7,4,home,finance,supervisor,earned,accompany child
+8,1,out of town,R&D,manager,casual,personal
+3,2,home,cleaners,manager,earned,emergency for family
+28,5,out of town,IT,supervisor,extension leave,duty leave
+23,4,office,HR,foreman,earned,marriage
+22,4,out of town,R&D,employee,medical,duty leave
+16,3,home,HR,supervisor,EOL,marriage
+26,2,out of town,IT,ad-hoc,earned,marriage
+18,4,out of town,operations,employee,EOL,personal
+13,0,home,marketing,manager,extension leave,death
+11,0,home,marketing,manager,medical,personal
+12,4,office,cleaners,manager,medical,personal
+25,0,office,HR,foreman,earned,personal
+2,3,out of town,cleaners,foreman,EOL,death
+10,5,office,cleaners,foreman,medical,marriage
+20,0,home,operations,employee,medical,marriage
+24,1,office,cleaners,ad-hoc,medical,death
+23,0,office,IT,manager,EOL,personal
+19,2,out of town,marketing,manager,earned,marriage
+10,1,out of town,R&D,foreman,earned,personal
+26,2,home,R&D,employee,extension leave,marriage
+8,2,office,operations,employee,EOL,death
+28,3,office,operations,employee,medical,personal
+21,0,office,finance,ad-hoc,casual,personal
+16,1,out of town,R&D,supervisor,extension leave,personal
+24,5,home,R&D,employee,EOL,emergency for family
+12,4,office,finance,foreman,casual,emergency for family
+15,0,home,HR,manager,earned,accompany child
+15,3,out of town,R&D,ad-hoc,official,duty leave
+27,5,home,marketing,manager,official,duty leave
+14,1,office,HR,ad-hoc,extension leave,death
+28,0,office,finance,foreman,official,emergency for family
+13,0,home,finance,manager,EOL,death
+12,1,home,cleaners,foreman,extension leave,personal
+25,0,office,operations,manager,EOL,marriage
+8,4,office,marketing,supervisor,EOL,death
+17,3,home,cleaners,employee,medical,medical
+22,5,home,cleaners,supervisor,casual,duty leave
+22,0,out of town,R&D,manager,medical,accompany child
+11,2,home,finance,supervisor,extension leave,death
+14,1,out of town,marketing,manager,official,duty leave
+9,5,home,cleaners,ad-hoc,medical,death
+14,2,out of town,marketing,ad-hoc,earned,marriage
+6,2,office,finance,manager,official,duty leave
+9,0,home,marketing,employee,casual,medical
+7,2,office,marketing,foreman,EOL,duty leave
+26,5,out of town,IT,supervisor,casual,personal
+29,1,home,HR,supervisor,official,duty leave
+18,1,home,marketing,foreman,extension leave,personal
+2,0,home,IT,employee,medical,accompany child
+13,3,office,R&D,foreman,medical,emergency for family
+25,1,home,IT,manager,official,medical
+20,4,out of town,IT,employee,official,duty leave
+4,3,home,finance,supervisor,EOL,marriage
+7,2,home,finance,supervisor,EOL,medical
+4,4,office,HR,foreman,official,emergency for family
+30,4,out of town,cleaners,supervisor,earned,medical
+13,0,out of town,HR,manager,extension leave,marriage
+18,5,office,R&D,manager,extension leave,duty leave
+28,3,out of town,HR,manager,medical,emergency for family
+15,2,office,marketing,ad-hoc,official,emergency for family
+30,2,home,R&D,manager,earned,duty leave
+10,0,out of town,R&D,employee,casual,personal
+28,0,home,IT,ad-hoc,earned,duty leave
+13,0,office,HR,supervisor,medical,medical
+25,2,office,cleaners,foreman,casual,accompany child
+12,2,office,cleaners,manager,EOL,death
+2,2,home,IT,supervisor,official,medical
+4,0,office,R&D,manager,EOL,emergency for family
+30,4,office,operations,employee,extension leave,marriage
+21,2,home,R&D,manager,casual,duty leave
+11,1,office,cleaners,supervisor,official,medical
+29,4,office,cleaners,ad-hoc,medical,marriage
+11,4,out of town,cleaners,manager,earned,accompany child
+3,2,office,cleaners,manager,official,emergency for family
+25,1,home,operations,ad-hoc,official,medical
+7,4,home,HR,employee,extension leave,accompany child
+11,0,home,R&D,supervisor,medical,duty leave
+22,4,office,IT,employee,earned,death
+6,2,out of town,IT,employee,extension leave,medical
+29,4,out of town,HR,employee,official,accompany child
+20,2,home,IT,foreman,casual,death
+9,0,office,IT,ad-hoc,EOL,death
+20,4,home,marketing,manager,official,medical
+2,2,out of town,operations,foreman,casual,death
+4,5,office,finance,employee,earned,personal
+27,0,office,operations,supervisor,EOL,medical
+16,0,home,HR,supervisor,medical,accompany child
+25,5,out of town,finance,employee,extension leave,medical
+2,4,home,IT,employee,earned,medical
+29,0,office,IT,employee,official,emergency for family
+29,3,home,finance,supervisor,earned,emergency for family
+3,0,office,operations,ad-hoc,earned,personal
+24,2,out of town,operations,manager,EOL,death
+2,1,home,cleaners,manager,extension leave,medical
+8,1,out of town,R&D,supervisor,earned,accompany child
+30,0,out of town,marketing,ad-hoc,medical,personal
+6,3,out of town,IT,foreman,official,duty leave
+10,3,office,operations,supervisor,casual,personal
+5,2,out of town,finance,employee,medical,personal
+30,5,office,cleaners,foreman,extension leave,duty leave
+13,1,out of town,finance,supervisor,medical,emergency for family
+14,5,out of town,R&D,supervisor,casual,personal
+6,4,home,HR,foreman,medical,emergency for family
+7,5,office,R&D,ad-hoc,extension leave,marriage
+13,1,home,HR,foreman,earned,personal
+9,4,home,cleaners,manager,medical,duty leave
+24,2,out of town,marketing,employee,casual,duty leave
+3,1,office,IT,foreman,EOL,death
+12,5,home,HR,supervisor,casual,emergency for family
+27,4,out of town,marketing,foreman,official,accompany child
+28,4,office,R&D,supervisor,medical,medical
+30,0,out of town,finance,ad-hoc,EOL,personal
+12,5,home,finance,manager,medical,marriage
+27,2,office,IT,manager,casual,accompany child
+2,1,home,IT,manager,casual,emergency for family
+15,2,office,finance,supervisor,casual,marriage
+8,3,office,operations,foreman,earned,duty leave
+20,4,home,operations,foreman,EOL,duty leave
+27,0,out of town,R&D,ad-hoc,medical,accompany child
+8,0,home,marketing,ad-hoc,casual,emergency for family
+24,1,out of town,marketing,supervisor,medical,death
+13,0,office,cleaners,ad-hoc,casual,death
+12,1,out of town,marketing,foreman,extension leave,medical
+27,3,home,HR,manager,casual,personal
+22,3,office,operations,employee,EOL,medical
+3,4,out of town,IT,supervisor,extension leave,duty leave
+29,0,home,IT,ad-hoc,earned,death
+17,3,home,operations,manager,official,death
+29,5,home,operations,supervisor,official,duty leave
+21,2,out of town,operations,manager,earned,marriage
+24,0,out of town,finance,foreman,medical,medical
+29,2,office,HR,foreman,extension leave,medical
+17,2,out of town,cleaners,foreman,extension leave,medical
+28,1,home,IT,supervisor,official,death
+14,4,out of town,operations,supervisor,medical,duty leave
+27,3,office,R&D,manager,EOL,death
+4,1,office,R&D,employee,medical,medical
+17,2,out of town,cleaners,manager,medical,accompany child
+19,3,out of town,cleaners,manager,extension leave,accompany child
+19,2,home,IT,ad-hoc,medical,personal
+29,1,office,R&D,manager,extension leave,emergency for family
+27,0,home,R&D,employee,earned,emergency for family
+9,2,office,HR,foreman,earned,medical
+29,2,out of town,marketing,foreman,earned,personal
+2,1,office,HR,foreman,casual,medical
+25,1,home,IT,ad-hoc,earned,death
+18,5,office,marketing,foreman,earned,accompany child
+17,2,office,HR,foreman,earned,death
+13,5,office,marketing,manager,EOL,duty leave
+3,2,out of town,finance,foreman,official,emergency for family
+2,5,out of town,IT,foreman,EOL,marriage
+7,2,home,R&D,foreman,medical,medical
+15,1,out of town,marketing,supervisor,extension leave,emergency for family
+6,3,home,operations,supervisor,official,duty leave
+12,1,office,R&D,employee,casual,medical
+7,2,out of town,marketing,foreman,EOL,medical
+15,1,home,HR,supervisor,medical,medical
+24,0,office,IT,foreman,official,death
+18,3,home,R&D,manager,casual,accompany child
+6,4,out of town,IT,ad-hoc,EOL,medical
+12,4,home,IT,employee,EOL,marriage
+14,0,home,HR,ad-hoc,EOL,accompany child
+6,3,out of town,cleaners,supervisor,EOL,duty leave
+4,1,out of town,marketing,employee,EOL,personal
+16,2,out of town,marketing,manager,earned,medical
+20,1,office,R&D,foreman,earned,personal
+8,1,home,finance,employee,EOL,medical
+26,2,out of town,cleaners,supervisor,medical,emergency for family
+8,0,out of town,marketing,foreman,casual,death
+25,2,home,marketing,manager,medical,death
+9,0,out of town,cleaners,manager,casual,death
+3,1,home,cleaners,employee,EOL,medical
+9,0,home,R&D,employee,EOL,personal
+22,0,office,cleaners,ad-hoc,extension leave,duty leave
+29,5,out of town,IT,ad-hoc,extension leave,marriage
+26,2,office,HR,employee,earned,accompany child
+6,1,out of town,R&D,manager,extension leave,emergency for family
+28,5,home,IT,supervisor,EOL,medical
+4,5,out of town,cleaners,foreman,casual,duty leave
+9,0,out of town,operations,employee,casual,accompany child
+8,4,out of town,finance,foreman,extension leave,personal
+28,5,home,marketing,manager,official,medical
+12,2,office,IT,supervisor,casual,death
+18,1,home,cleaners,employee,official,personal
+30,4,home,operations,employee,extension leave,medical
+7,5,office,R&D,supervisor,EOL,marriage
+23,4,home,IT,foreman,medical,accompany child
+4,3,office,R&D,supervisor,medical,accompany child
+9,0,office,R&D,foreman,earned,emergency for family
+17,3,office,HR,foreman,earned,personal
+8,0,office,R&D,ad-hoc,EOL,death
+2,5,out of town,HR,manager,casual,duty leave
+27,2,office,marketing,supervisor,extension leave,duty leave
+17,5,office,cleaners,employee,extension leave,medical
+12,2,home,cleaners,supervisor,medical,marriage
+7,3,out of town,finance,manager,casual,marriage
+23,4,out of town,cleaners,manager,extension leave,emergency for family
+24,2,home,R&D,supervisor,medical,duty leave
+10,2,out of town,marketing,supervisor,EOL,accompany child
+7,2,home,marketing,manager,official,personal
+8,2,office,HR,employee,medical,marriage
+2,1,out of town,HR,manager,official,personal
+24,2,office,HR,employee,medical,marriage
+2,1,home,HR,supervisor,EOL,emergency for family
+6,5,office,IT,supervisor,extension leave,accompany child
+7,5,home,marketing,foreman,medical,emergency for family
+18,5,out of town,HR,manager,official,personal
+6,4,home,operations,employee,official,marriage
+2,1,out of town,R&D,supervisor,earned,duty leave
+19,3,home,IT,employee,extension leave,marriage
+14,4,office,IT,manager,earned,medical
+7,3,out of town,finance,employee,EOL,duty leave
+1,2,home,HR,employee,earned,personal
+23,1,home,finance,supervisor,casual,marriage
+1,3,out of town,operations,employee,medical,marriage
+15,3,office,HR,ad-hoc,extension leave,personal
+11,1,out of town,operations,employee,casual,personal
+28,0,home,operations,ad-hoc,medical,marriage
+17,4,home,cleaners,foreman,official,emergency for family
+21,3,home,marketing,employee,casual,medical
+26,3,home,finance,supervisor,official,personal
+14,2,home,cleaners,employee,official,death
+30,1,home,marketing,ad-hoc,earned,death
+20,5,home,R&D,supervisor,casual,duty leave
+20,4,office,operations,foreman,official,personal
+21,0,out of town,finance,ad-hoc,medical,death
+13,0,home,marketing,foreman,medical,marriage
+12,2,home,operations,employee,casual,emergency for family
+14,0,office,HR,ad-hoc,medical,emergency for family
+3,2,out of town,finance,ad-hoc,casual,emergency for family
+18,0,home,IT,foreman,earned,death
+4,4,out of town,finance,employee,official,duty leave
+18,3,home,cleaners,foreman,EOL,emergency for family
+11,5,office,finance,foreman,EOL,emergency for family
+6,0,office,finance,foreman,EOL,medical
+2,3,out of town,HR,supervisor,EOL,duty leave
+9,2,home,IT,employee,casual,accompany child
+23,5,home,operations,manager,casual,medical
+9,4,out of town,operations,employee,earned,medical
+4,2,out of town,marketing,manager,EOL,medical
+21,0,home,operations,ad-hoc,medical,medical
+3,1,out of town,HR,ad-hoc,official,medical
+20,0,out of town,cleaners,supervisor,medical,death
+27,3,out of town,cleaners,supervisor,earned,accompany child
+6,4,home,R&D,ad-hoc,extension leave,personal
+8,0,home,IT,ad-hoc,earned,death
+3,1,office,R&D,manager,medical,emergency for family
+22,0,office,IT,foreman,EOL,accompany child
+4,4,office,R&D,foreman,official,emergency for family
+7,0,office,cleaners,ad-hoc,earned,death
+14,1,out of town,operations,employee,extension leave,accompany child
+12,0,office,cleaners,foreman,earned,death
+6,4,home,finance,manager,casual,duty leave
+24,2,home,finance,ad-hoc,official,marriage
+13,4,office,operations,employee,EOL,marriage
+12,0,office,R&D,employee,medical,death
+30,0,home,IT,manager,EOL,emergency for family
+21,4,home,IT,ad-hoc,official,duty leave
+30,3,out of town,marketing,supervisor,extension leave,marriage
+6,4,office,operations,manager,medical,personal
+8,3,office,HR,ad-hoc,EOL,accompany child
+5,4,out of town,cleaners,manager,extension leave,death
+14,0,office,finance,supervisor,extension leave,death
+27,1,office,R&D,manager,medical,personal
+5,1,office,operations,foreman,medical,death
+25,4,home,finance,ad-hoc,casual,accompany child
+4,1,office,IT,foreman,extension leave,duty leave
+9,3,out of town,R&D,supervisor,EOL,death
+2,3,office,HR,supervisor,official,marriage
+26,2,home,R&D,employee,casual,marriage
+17,3,out of town,cleaners,employee,official,personal
+14,4,out of town,operations,employee,earned,death
+2,5,out of town,finance,supervisor,EOL,personal
+14,4,office,operations,ad-hoc,EOL,medical
+27,2,home,HR,ad-hoc,EOL,medical
+22,2,out of town,R&D,manager,casual,accompany child
+12,3,office,HR,manager,EOL,medical
+22,5,home,finance,ad-hoc,extension leave,duty leave
+1,4,home,finance,foreman,earned,accompany child
+2,0,out of town,HR,employee,casual,emergency for family
+9,0,out of town,HR,foreman,casual,personal
+12,4,out of town,IT,manager,EOL,marriage
+7,0,office,IT,foreman,EOL,marriage
+23,2,home,cleaners,ad-hoc,medical,medical
+13,0,home,HR,employee,casual,accompany child
+9,2,office,marketing,ad-hoc,medical,medical
+6,1,office,HR,foreman,official,duty leave
+3,3,out of town,operations,manager,official,emergency for family
+25,1,office,IT,foreman,casual,medical
+23,3,out of town,cleaners,supervisor,EOL,personal
+20,0,home,finance,manager,EOL,marriage
+13,2,home,R&D,supervisor,medical,personal
+27,1,home,finance,foreman,extension leave,accompany child
+4,0,office,cleaners,ad-hoc,earned,personal
+21,0,out of town,cleaners,manager,casual,duty leave
+9,0,office,IT,supervisor,casual,personal
+24,2,out of town,operations,employee,earned,duty leave
+2,2,home,R&D,manager,medical,accompany child
+24,3,home,operations,supervisor,earned,medical
+27,5,out of town,IT,supervisor,official,death
+12,3,out of town,operations,employee,medical,emergency for family
+16,3,out of town,operations,manager,EOL,personal
+18,2,office,HR,employee,official,medical
+26,4,office,operations,manager,extension leave,marriage
+27,1,home,marketing,manager,medical,death
+3,1,out of town,cleaners,supervisor,extension leave,duty leave
+25,2,out of town,marketing,ad-hoc,official,medical
+7,1,office,finance,ad-hoc,EOL,emergency for family
+1,2,home,IT,employee,official,emergency for family
+16,5,out of town,HR,employee,medical,personal
+30,2,home,HR,ad-hoc,earned,personal
+11,2,out of town,IT,ad-hoc,casual,duty leave
+19,0,out of town,finance,employee,official,accompany child
+3,4,home,IT,manager,medical,personal
+9,2,office,marketing,manager,EOL,marriage
+8,5,office,IT,ad-hoc,earned,death
+5,1,home,operations,manager,EOL,accompany child
+25,1,office,operations,employee,extension leave,medical
+12,2,home,finance,foreman,EOL,personal
+30,1,out of town,marketing,employee,medical,medical
+24,4,out of town,operations,employee,earned,accompany child
+22,2,out of town,marketing,manager,EOL,accompany child
+29,5,home,cleaners,supervisor,earned,duty leave
+29,5,out of town,operations,employee,extension leave,emergency for family
+12,3,office,IT,ad-hoc,medical,medical
+27,4,office,finance,foreman,EOL,accompany child
+17,4,out of town,cleaners,foreman,earned,death
+8,4,out of town,marketing,supervisor,official,accompany child
+19,0,office,finance,manager,EOL,accompany child
+25,4,home,HR,employee,medical,marriage
+25,1,office,cleaners,employee,earned,emergency for family
+9,5,office,operations,ad-hoc,official,emergency for family
+4,1,home,finance,employee,extension leave,duty leave
+9,0,home,marketing,foreman,official,emergency for family
+29,4,home,HR,employee,medical,emergency for family
+10,2,out of town,IT,manager,extension leave,personal
+29,5,home,operations,supervisor,extension leave,marriage
+11,5,out of town,finance,foreman,casual,emergency for family
+24,2,out of town,marketing,employee,earned,marriage
+24,0,out of town,cleaners,supervisor,extension leave,death
+24,1,office,cleaners,ad-hoc,official,death
+6,3,out of town,finance,supervisor,official,personal
+21,2,out of town,R&D,supervisor,casual,death
+19,3,out of town,R&D,supervisor,extension leave,personal
+28,4,out of town,IT,foreman,extension leave,personal
+20,5,home,R&D,ad-hoc,EOL,death
+3,0,out of town,R&D,ad-hoc,medical,personal
+24,1,out of town,R&D,supervisor,medical,duty leave
+15,3,home,marketing,employee,EOL,duty leave
+20,0,office,cleaners,manager,official,personal
+28,1,office,marketing,employee,extension leave,duty leave
+21,2,office,HR,foreman,extension leave,death
+13,5,office,finance,employee,medical,accompany child
+19,5,home,marketing,manager,earned,personal
+6,0,office,cleaners,supervisor,EOL,medical
+25,0,out of town,cleaners,employee,casual,medical
+30,2,out of town,operations,ad-hoc,official,personal
+22,3,office,R&D,employee,EOL,emergency for family
+19,2,out of town,cleaners,ad-hoc,EOL,death
+14,3,home,cleaners,supervisor,extension leave,accompany child
+22,4,home,marketing,foreman,casual,duty leave
+26,0,office,finance,supervisor,casual,emergency for family
+21,5,out of town,finance,foreman,EOL,emergency for family
+27,0,home,R&D,ad-hoc,extension leave,marriage
+29,0,office,HR,manager,official,accompany child
+9,2,office,cleaners,supervisor,earned,emergency for family
+3,5,out of town,cleaners,foreman,official,marriage
+13,3,out of town,cleaners,employee,medical,accompany child
+1,5,office,finance,foreman,earned,marriage
+21,0,home,finance,ad-hoc,official,personal
+30,1,home,HR,ad-hoc,earned,marriage
+22,4,office,IT,manager,earned,medical
+1,4,office,finance,employee,casual,emergency for family
+25,0,home,R&D,employee,official,accompany child
+4,5,office,cleaners,employee,earned,medical
+2,1,out of town,operations,employee,extension leave,death
+11,5,office,finance,ad-hoc,medical,marriage
+21,4,out of town,marketing,foreman,official,accompany child
+16,5,out of town,cleaners,manager,medical,marriage
+2,4,home,HR,employee,medical,marriage
+29,5,office,cleaners,manager,EOL,accompany child
+28,2,home,cleaners,employee,extension leave,death
+10,1,out of town,finance,manager,casual,duty leave
+10,5,home,operations,employee,official,emergency for family
+27,0,out of town,marketing,foreman,earned,accompany child
+13,5,office,finance,foreman,EOL,medical
+29,0,out of town,HR,manager,extension leave,marriage
+1,5,office,cleaners,manager,official,duty leave
+14,4,out of town,HR,employee,extension leave,accompany child
+12,3,home,R&D,foreman,earned,personal
+7,4,home,finance,manager,EOL,accompany child
+25,4,office,IT,employee,official,personal
+14,1,office,cleaners,foreman,medical,medical
+17,5,out of town,operations,foreman,earned,duty leave
+8,4,out of town,finance,employee,earned,duty leave
+18,4,out of town,HR,manager,EOL,death
+3,5,office,IT,foreman,medical,marriage
+20,4,out of town,operations,ad-hoc,earned,death
+8,4,office,cleaners,ad-hoc,extension leave,personal
+26,5,out of town,cleaners,foreman,earned,personal
+14,2,office,marketing,ad-hoc,extension leave,medical
+1,0,office,HR,manager,EOL,emergency for family
+25,2,out of town,operations,supervisor,extension leave,marriage
+9,1,home,IT,employee,casual,marriage
+25,1,office,IT,supervisor,medical,duty leave
+7,1,home,IT,manager,official,duty leave
+8,4,home,finance,supervisor,official,medical
+8,2,home,finance,supervisor,casual,accompany child
+30,5,home,operations,foreman,casual,medical
+9,0,home,marketing,supervisor,medical,marriage
+26,4,out of town,HR,supervisor,earned,marriage
+16,0,home,cleaners,supervisor,official,marriage
+17,0,out of town,HR,supervisor,official,marriage
+3,0,home,cleaners,supervisor,extension leave,accompany child
+3,4,home,cleaners,manager,casual,marriage
+11,5,out of town,operations,manager,EOL,marriage
+28,5,home,R&D,ad-hoc,EOL,emergency for family
+25,0,office,IT,supervisor,casual,marriage
+20,5,out of town,finance,foreman,official,emergency for family
+17,0,out of town,operations,ad-hoc,official,marriage
+24,5,home,R&D,supervisor,earned,emergency for family
+24,2,home,HR,supervisor,earned,marriage
+12,3,out of town,marketing,employee,extension leave,emergency for family
+1,0,home,cleaners,foreman,extension leave,marriage
+19,1,out of town,cleaners,supervisor,extension leave,emergency for family
+9,4,office,marketing,ad-hoc,EOL,emergency for family
+1,3,out of town,R&D,supervisor,official,emergency for family
+13,5,out of town,finance,employee,official,personal
+24,4,out of town,IT,ad-hoc,casual,personal
+29,4,home,operations,manager,earned,personal
+25,3,out of town,IT,foreman,earned,marriage
+23,4,home,IT,manager,official,death
+6,1,home,IT,foreman,official,death
+3,4,office,marketing,ad-hoc,extension leave,death
+28,4,home,R&D,manager,earned,death
+21,5,office,marketing,supervisor,earned,medical
+1,3,office,HR,manager,casual,medical
+8,5,home,marketing,foreman,extension leave,death
+21,3,home,marketing,ad-hoc,casual,personal
+6,3,out of town,R&D,employee,earned,death
+18,0,home,marketing,manager,EOL,marriage
+25,2,out of town,finance,employee,medical,emergency for family
+11,2,home,IT,supervisor,extension leave,death
+6,1,home,R&D,supervisor,extension leave,personal
+8,3,office,HR,supervisor,medical,marriage
+21,4,home,finance,supervisor,earned,marriage
+14,3,office,cleaners,employee,earned,personal
+23,5,out of town,marketing,foreman,medical,medical
+30,4,home,finance,ad-hoc,official,duty leave
+14,0,home,operations,foreman,earned,accompany child
+22,4,home,finance,supervisor,extension leave,accompany child
+10,2,office,HR,ad-hoc,EOL,duty leave
+21,1,out of town,R&D,ad-hoc,official,death
+10,1,home,HR,foreman,earned,personal
+19,2,office,R&D,employee,casual,accompany child
+30,5,office,HR,foreman,earned,accompany child
+6,4,home,HR,manager,earned,death
+16,5,home,finance,employee,earned,death
+18,0,home,cleaners,foreman,extension leave,death
+5,5,home,marketing,foreman,extension leave,medical
+17,4,home,finance,ad-hoc,earned,medical
+10,1,home,marketing,manager,medical,death
+6,2,home,marketing,ad-hoc,medical,medical
+30,3,out of town,finance,ad-hoc,EOL,emergency for family
+26,3,out of town,HR,employee,casual,duty leave
+6,1,office,HR,foreman,EOL,personal
+11,4,home,finance,ad-hoc,official,medical
+24,4,out of town,HR,manager,earned,accompany child
+3,2,home,cleaners,ad-hoc,EOL,death
+10,4,out of town,finance,supervisor,official,emergency for family
+21,1,out of town,IT,manager,medical,personal
+20,1,home,operations,ad-hoc,EOL,duty leave
+30,3,out of town,finance,manager,EOL,marriage
+28,5,home,marketing,supervisor,medical,emergency for family
+2,1,out of town,R&D,ad-hoc,earned,marriage
+21,1,home,marketing,foreman,earned,medical
+26,3,office,cleaners,supervisor,extension leave,duty leave
+15,2,home,cleaners,manager,official,marriage
+30,5,out of town,finance,foreman,extension leave,death
+17,1,out of town,marketing,employee,extension leave,duty leave
+3,1,home,marketing,manager,casual,emergency for family
+21,4,out of town,cleaners,foreman,medical,medical
+23,1,home,HR,manager,casual,death
+12,0,home,operations,ad-hoc,casual,accompany child
+10,4,office,IT,supervisor,casual,accompany child
+18,1,office,marketing,manager,casual,medical
+1,4,home,IT,manager,official,marriage
+23,5,home,HR,employee,official,death
+30,0,out of town,IT,foreman,official,personal
+9,0,office,IT,supervisor,earned,death
+10,4,home,HR,foreman,medical,emergency for family
+19,3,home,marketing,employee,casual,accompany child
+17,2,home,IT,ad-hoc,official,duty leave
+8,4,home,HR,supervisor,casual,personal
+20,3,home,R&D,employee,medical,marriage
+14,0,home,R&D,employee,official,marriage
+27,5,office,marketing,foreman,EOL,marriage
+15,4,out of town,operations,employee,earned,emergency for family
+16,5,office,R&D,employee,extension leave,death
+18,1,home,cleaners,foreman,earned,marriage
+3,1,home,operations,foreman,extension leave,accompany child
+8,1,office,finance,foreman,official,medical
+14,3,out of town,IT,foreman,EOL,death
+5,2,home,IT,foreman,casual,medical
+5,2,home,HR,supervisor,EOL,marriage
+22,0,home,operations,employee,extension leave,marriage
+13,5,home,marketing,ad-hoc,EOL,death
+17,5,home,finance,manager,casual,marriage
+16,3,office,cleaners,employee,casual,death
+17,2,office,finance,manager,EOL,duty leave
+11,3,office,marketing,employee,EOL,marriage
+3,3,out of town,IT,employee,extension leave,medical
+17,2,office,operations,supervisor,earned,emergency for family
+18,5,out of town,HR,supervisor,earned,emergency for family
+1,2,home,R&D,manager,extension leave,accompany child
+23,3,home,IT,supervisor,casual,marriage
+10,0,out of town,IT,ad-hoc,casual,personal
+25,3,out of town,operations,supervisor,earned,duty leave
+4,3,out of town,finance,employee,official,marriage
+24,0,home,HR,ad-hoc,extension leave,personal
+21,2,office,HR,ad-hoc,official,emergency for family
+20,0,home,finance,foreman,extension leave,medical
+1,4,office,IT,employee,extension leave,personal
+4,0,out of town,operations,supervisor,medical,duty leave
+10,2,out of town,finance,supervisor,official,personal
+24,4,office,IT,ad-hoc,EOL,medical
+19,1,out of town,finance,employee,EOL,duty leave
+21,3,out of town,operations,supervisor,medical,emergency for family
+12,0,office,HR,employee,EOL,accompany child
+18,3,home,IT,manager,earned,death
+9,4,home,HR,manager,extension leave,medical
+23,4,home,HR,employee,casual,death
+5,0,out of town,marketing,foreman,official,medical
+10,2,office,finance,supervisor,medical,personal
+21,1,office,finance,ad-hoc,earned,marriage
+19,2,home,R&D,supervisor,earned,personal
+14,0,out of town,HR,supervisor,earned,medical
+19,3,office,R&D,employee,official,emergency for family
+6,0,home,marketing,ad-hoc,casual,emergency for family
+22,0,out of town,IT,manager,medical,emergency for family
+11,2,office,finance,ad-hoc,casual,personal
+24,0,out of town,R&D,ad-hoc,casual,personal
+2,5,out of town,IT,supervisor,medical,personal
+7,4,out of town,operations,employee,EOL,medical
+2,1,out of town,operations,ad-hoc,extension leave,accompany child
+6,4,home,marketing,ad-hoc,earned,personal
+20,5,out of town,R&D,manager,extension leave,emergency for family
+18,2,office,cleaners,supervisor,EOL,personal
+2,3,out of town,IT,ad-hoc,official,medical
+4,3,office,IT,supervisor,casual,medical
+21,1,home,IT,foreman,earned,death
+6,4,home,cleaners,employee,EOL,marriage
+15,1,out of town,IT,foreman,casual,emergency for family
+28,5,office,cleaners,foreman,official,duty leave
+17,1,out of town,marketing,supervisor,official,accompany child
+29,1,home,HR,employee,official,medical
+21,2,out of town,R&D,supervisor,casual,marriage
+26,0,office,IT,supervisor,earned,accompany child
+9,0,office,finance,employee,earned,duty leave
+5,1,out of town,operations,supervisor,EOL,emergency for family
+16,1,home,finance,manager,earned,medical
+29,3,out of town,IT,ad-hoc,earned,accompany child
+9,4,home,IT,ad-hoc,casual,death
+8,2,home,marketing,supervisor,official,duty leave
+12,1,office,IT,supervisor,medical,emergency for family
+13,0,home,marketing,manager,casual,accompany child
+9,0,out of town,operations,manager,extension leave,death
+20,2,home,operations,foreman,casual,personal
+21,3,out of town,marketing,foreman,casual,emergency for family
+20,2,out of town,HR,supervisor,medical,duty leave
+3,4,out of town,HR,foreman,medical,accompany child
+13,4,home,operations,foreman,medical,medical
+11,5,out of town,IT,supervisor,casual,death
+15,2,office,operations,manager,medical,personal
+2,2,home,marketing,supervisor,earned,duty leave
+18,5,home,marketing,manager,earned,accompany child
+29,4,home,R&D,ad-hoc,EOL,duty leave
+12,0,office,operations,foreman,official,emergency for family
+7,3,office,R&D,supervisor,casual,death
+22,3,office,operations,foreman,casual,marriage
+28,4,home,operations,manager,casual,duty leave
+28,1,home,R&D,manager,EOL,duty leave
+28,2,office,HR,manager,extension leave,emergency for family
+6,0,office,finance,employee,medical,personal
+11,4,home,IT,ad-hoc,medical,emergency for family
+20,0,out of town,operations,supervisor,casual,emergency for family
+9,1,office,cleaners,ad-hoc,casual,medical
+20,4,out of town,cleaners,foreman,official,death
+10,0,home,finance,ad-hoc,earned,duty leave
+12,5,out of town,operations,manager,medical,marriage
+13,3,home,R&D,ad-hoc,casual,medical
+14,5,office,HR,foreman,earned,accompany child
+24,0,out of town,R&D,foreman,medical,medical
+5,3,office,operations,supervisor,medical,duty leave
+14,1,home,cleaners,manager,earned,emergency for family
+19,1,office,operations,employee,earned,emergency for family
+17,3,out of town,marketing,supervisor,casual,duty leave
+22,2,out of town,HR,manager,extension leave,death
+11,5,home,cleaners,supervisor,EOL,medical
+9,5,home,R&D,employee,official,marriage
+16,0,office,marketing,ad-hoc,official,emergency for family
+7,2,office,IT,employee,extension leave,medical
+6,1,out of town,marketing,foreman,medical,marriage
+15,3,out of town,HR,employee,earned,personal
+5,3,home,operations,ad-hoc,extension leave,accompany child
+19,1,office,IT,ad-hoc,medical,emergency for family
+19,3,out of town,cleaners,ad-hoc,extension leave,medical
+10,2,office,marketing,manager,medical,duty leave
+22,0,office,marketing,employee,medical,accompany child
+20,0,home,IT,supervisor,earned,medical
+30,2,office,IT,manager,official,medical
+29,4,out of town,operations,manager,earned,personal
+19,3,out of town,marketing,employee,medical,medical
+29,4,out of town,marketing,manager,earned,emergency for family
+12,3,home,IT,employee,earned,duty leave
+7,5,office,finance,foreman,official,medical
+24,0,out of town,finance,supervisor,EOL,death
+16,4,office,finance,ad-hoc,earned,accompany child
+7,0,office,marketing,supervisor,earned,duty leave
+19,1,home,marketing,manager,earned,emergency for family
+6,4,office,HR,manager,official,personal
+19,3,out of town,finance,manager,earned,marriage
+9,0,home,HR,supervisor,medical,emergency for family
+2,0,out of town,HR,ad-hoc,extension leave,accompany child
+1,3,out of town,HR,manager,official,duty leave
+3,3,home,cleaners,foreman,medical,marriage
+9,0,office,cleaners,foreman,casual,duty leave
+27,1,home,operations,employee,casual,duty leave
+25,1,home,finance,manager,official,medical
+10,1,out of town,HR,employee,earned,duty leave
+20,2,home,marketing,employee,official,death
+7,2,office,cleaners,supervisor,extension leave,marriage
+25,3,office,cleaners,employee,earned,medical
+30,5,office,finance,ad-hoc,extension leave,accompany child
+23,3,office,R&D,foreman,EOL,emergency for family
+5,0,office,finance,supervisor,official,personal
+11,4,office,finance,employee,official,duty leave
+21,0,home,R&D,supervisor,casual,duty leave
+15,1,out of town,R&D,foreman,casual,marriage
+22,4,home,marketing,employee,extension leave,duty leave
+27,3,out of town,operations,foreman,EOL,emergency for family
+28,0,out of town,marketing,foreman,EOL,medical
+30,4,out of town,R&D,ad-hoc,casual,medical
+29,3,office,operations,ad-hoc,extension leave,emergency for family
+24,1,home,cleaners,ad-hoc,official,marriage
+28,3,out of town,R&D,foreman,medical,medical
+29,4,home,finance,employee,medical,emergency for family
+10,3,home,marketing,manager,extension leave,death
+8,5,out of town,operations,supervisor,official,marriage
+17,5,office,marketing,manager,extension leave,death
+7,5,office,IT,employee,earned,marriage
+23,0,out of town,HR,employee,earned,emergency for family
+16,3,out of town,finance,ad-hoc,medical,personal
+24,0,home,marketing,employee,EOL,accompany child
+17,1,home,cleaners,supervisor,medical,emergency for family
+17,3,office,HR,ad-hoc,EOL,emergency for family
+8,0,out of town,R&D,manager,extension leave,personal
+2,0,home,finance,employee,official,medical
+25,5,office,HR,foreman,casual,death
+20,2,office,R&D,manager,medical,emergency for family
+8,1,home,finance,ad-hoc,official,emergency for family
+5,5,out of town,finance,supervisor,EOL,duty leave
+19,2,out of town,IT,supervisor,EOL,emergency for family
+17,2,out of town,HR,manager,medical,marriage
+23,4,office,HR,supervisor,official,death
+29,1,office,HR,foreman,medical,medical
+9,5,out of town,R&D,manager,casual,medical
+27,1,out of town,HR,ad-hoc,official,medical
+8,3,home,R&D,foreman,official,marriage
+9,4,home,finance,manager,medical,emergency for family
+29,5,home,cleaners,supervisor,official,medical
+1,3,home,finance,ad-hoc,earned,emergency for family
+27,2,office,IT,supervisor,medical,medical
+13,2,office,operations,supervisor,medical,death
+30,2,home,HR,supervisor,EOL,death
+7,5,home,operations,employee,earned,emergency for family
+21,3,out of town,operations,supervisor,EOL,accompany child
+17,0,office,IT,foreman,medical,duty leave
+1,3,out of town,finance,employee,earned,emergency for family
+5,4,office,cleaners,foreman,medical,duty leave
+25,5,out of town,marketing,supervisor,medical,duty leave
+17,3,home,operations,supervisor,medical,emergency for family
+4,0,home,operations,employee,medical,marriage
+30,3,home,finance,employee,medical,medical
+24,1,office,IT,ad-hoc,medical,emergency for family
+19,4,out of town,HR,foreman,earned,accompany child
+23,0,out of town,marketing,employee,official,death
+20,5,out of town,marketing,supervisor,casual,duty leave
+15,5,out of town,HR,manager,medical,death
+25,3,home,finance,manager,casual,death
+11,3,office,cleaners,employee,earned,personal
+29,5,home,cleaners,supervisor,earned,personal
+16,5,office,IT,ad-hoc,EOL,duty leave
+14,5,home,IT,ad-hoc,casual,marriage
+24,1,out of town,operations,supervisor,extension leave,medical
+18,3,office,IT,supervisor,medical,death
+24,4,home,IT,employee,medical,emergency for family
+5,3,out of town,operations,manager,earned,medical
+20,2,home,cleaners,employee,EOL,duty leave
+11,1,out of town,marketing,employee,extension leave,emergency for family
+25,2,out of town,finance,foreman,extension leave,accompany child
+23,3,office,operations,employee,official,personal
+28,4,home,operations,foreman,earned,emergency for family
+29,2,home,IT,foreman,medical,death
+23,0,out of town,cleaners,supervisor,casual,medical
+8,4,out of town,cleaners,manager,official,death
+4,4,home,HR,ad-hoc,casual,duty leave
+1,1,home,R&D,ad-hoc,earned,personal
+20,2,office,operations,ad-hoc,official,personal
+28,4,office,cleaners,manager,extension leave,marriage
+5,1,home,cleaners,foreman,earned,accompany child
+10,1,home,finance,foreman,official,personal
+11,4,office,operations,ad-hoc,official,medical
+21,0,out of town,marketing,employee,EOL,duty leave
+26,4,out of town,finance,manager,medical,duty leave
+27,0,out of town,operations,supervisor,extension leave,medical
+30,5,out of town,R&D,manager,extension leave,emergency for family
+13,2,out of town,R&D,manager,medical,accompany child
+27,0,home,marketing,foreman,medical,accompany child
+30,1,out of town,operations,supervisor,earned,duty leave
+27,0,home,HR,ad-hoc,extension leave,death
+19,5,out of town,HR,foreman,earned,duty leave
+25,0,office,cleaners,employee,medical,personal
+11,4,office,IT,manager,earned,medical
+16,2,out of town,marketing,ad-hoc,official,duty leave
+5,2,office,marketing,ad-hoc,medical,death
+7,3,office,HR,employee,earned,death
+15,5,home,R&D,manager,EOL,personal
+10,3,out of town,R&D,ad-hoc,medical,personal
+30,3,home,IT,foreman,earned,duty leave
+5,0,out of town,HR,ad-hoc,casual,personal
+8,0,out of town,marketing,ad-hoc,earned,personal
+12,4,office,marketing,manager,official,marriage
+19,1,office,IT,supervisor,medical,death
+23,4,home,IT,supervisor,medical,medical
